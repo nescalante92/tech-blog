@@ -1,0 +1,20 @@
+const { Blog } = require("../models");
+
+const blogData = [
+  {
+    "title": "Hello I like Xbox.",
+    "user_id": 1,
+    "message": "How wants to meet up and play xbox?"
+  },
+  {
+    "title": "Hello I like Playstation.",
+    "user_id": 2,
+    "message": "How wants to meet up and play Playstation?"
+  },
+  {
+    "title": "Hello I like Nintendo.",
+    "user_id": 3,
+    "message": "Who wants to meet up and play Nintendo Switch?"
+  },
+];
+
